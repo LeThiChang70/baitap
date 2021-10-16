@@ -149,3 +149,8 @@ C:\Users\Admin\Downloads\NetCore\LeThiChang070\LeThiChang070\obj\Debug\net5.0\Ra
 C:\Users\Admin\Downloads\NetCore\LeThiChang070\LeThiChang070\obj\Debug\net5.0\Razor\Views\PersonLTC070\Details.cshtml.g.cs
 C:\Users\Admin\Downloads\NetCore\LeThiChang070\LeThiChang070\obj\Debug\net5.0\Razor\Views\PersonLTC070\Edit.cshtml.g.cs
 C:\Users\Admin\Downloads\NetCore\LeThiChang070\LeThiChang070\obj\Debug\net5.0\Razor\Views\PersonLTC070\Index.cshtml.g.cs
+C:\Users\Admin\Downloads\NetCore\LeThiChang070\LeThiChang070\obj\Debug\net5.0\Razor\Views\LTC070\Create.cshtml.g.cs
+C:\Users\Admin\Downloads\NetCore\LeThiChang070\LeThiChang070\obj\Debug\net5.0\Razor\Views\LTC070\Delete.cshtml.g.cs
+C:\Users\Admin\Downloads\NetCore\LeThiChang070\LeThiChang070\obj\Debug\net5.0\Razor\Views\LTC070\Details.cshtml.g.cs
+C:\Users\Admin\Downloads\NetCore\LeThiChang070\LeThiChang070\obj\Debug\net5.0\Razor\Views\LTC070\Edit.cshtml.g.cs
+C:\Users\Admin\Downloads\NetCore\LeThiChang070\LeThiChang070\obj\Debug\net5.0\Razor\Views\LTC070\Index.cshtml.g.cs

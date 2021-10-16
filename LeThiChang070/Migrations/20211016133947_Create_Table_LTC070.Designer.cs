@@ -3,14 +3,16 @@ using LeThiChang070.Data;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 namespace LeThiChang070.Migrations
 {
     [DbContext(typeof(LeThiChang070Context))]
-    partial class LeThiChang070ContextModelSnapshot : ModelSnapshot
+    [Migration("20211016133947_Create_Table_LTC070")]
+    partial class Create_Table_LTC070
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder

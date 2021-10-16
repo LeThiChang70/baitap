@@ -15,5 +15,7 @@ namespace LeThiChang070.Data
         }
 
         public DbSet<LeThiChang070.Models.PersonLTC070> PersonLTC070 { get; set; }
+
+        public DbSet<LeThiChang070.Models.LTC070> LTC070 { get; set; }
     }
 }
